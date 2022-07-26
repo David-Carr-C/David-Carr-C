@@ -1,11 +1,8 @@
-<h1 align="center">Hello there👋, I'm David Carrillo</h1>
-<h3 align="center">A passionate backend developer.</h3>
-![Design](https://user-images.githubusercontent.com/88515120/181085738-20bc510b-b5e1-4453-93dd-3eca727603d0.jpg)
+<h3 align="left">Hello there 👋</h1>
 
+![image](https://user-images.githubusercontent.com/88515120/181085870-b51a174b-8441-499c-ab63-914f194593da.jpg)
 
 - 📫 How to reach me **dav.t02@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-carrillo-castillo-540697220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-carrillo-castillo-540697220" height="30" width="40" /></a>
 </p>
@@ -20,6 +17,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-Carr-C&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+
+![image](https://github-readme-stats.vercel.app/api?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![image](https://github-readme-streak-stats.herokuapp.com/?user=David-Carr-C&theme=dark&hide_border=false)<br/>
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p/>
