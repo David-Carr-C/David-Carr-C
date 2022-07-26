@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/88515120/181085870-b51a174b-8441-499c-ab63-914f194593da.jpg)
 
+Soy desarrollador Java, estudiante de Ingeniería en Ciencias de la Computación, con un nivel avanzado de Inglés. He creado CLI's en C, Java, Javascript y Go, y también creado GUI's en Java. Soy conocedor de diversas áreas de la computación e informática: páginas web, sistemas operativos, lenguajes de programación y bases de datos. Busco oportunidad para adquirir experiencia en la industria tecnológica y poner a prueba mis conocimientos.
+
+Soy autodidacta, me gusta poder enseñar todas las habilidades que aprendo, y además, me organizo y trabajo en equipo efectivamente. Me gusta siempre apoyar a mis compañeros de trabajo y tener un ambiente de respeto.
+
 - 📫 How to reach me **dav.t02@hotmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/david-carrillo-castillo-540697220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-carrillo-castillo-540697220" height="30" width="40" /></a>
@@ -18,11 +22,12 @@
 
 ### GitHub Stats:
 <p align="center">
-
-![image](https://github-readme-stats.vercel.app/api?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![image](https://github-readme-streak-stats.herokuapp.com/?user=David-Carr-C&theme=dark&hide_border=false)<br/>
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <br>
+  
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=David-Carr-C&theme=dark&hide_border=false">
+  <br>
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carr-C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <br>
 <p/>
