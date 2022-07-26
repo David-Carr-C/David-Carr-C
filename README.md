@@ -1,6 +1,7 @@
 <h3 align="left">Hello there 👋</h1>
 
-![image](https://user-images.githubusercontent.com/88515120/181085870-b51a174b-8441-499c-ab63-914f194593da.jpg)
+![Design](https://user-images.githubusercontent.com/88515120/181091573-bf89f06e-9e1d-42fe-a2df-01b707456e1a.png)
+
 
 Soy desarrollador Java, estudiante de Ingeniería en Ciencias de la Computación, con un nivel avanzado de Inglés. He creado CLI's en C, Java, Javascript y Go, y también creado GUI's en Java. Soy conocedor de diversas áreas de la computación e informática: páginas web, sistemas operativos, lenguajes de programación y bases de datos. Busco oportunidad para adquirir experiencia en la industria tecnológica y poner a prueba mis conocimientos.
 
