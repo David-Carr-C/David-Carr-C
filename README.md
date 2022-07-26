@@ -5,7 +5,7 @@
 
 I’m a java developer, engineering student about computer science, with a high level of English. I’ve created CLI’s on C, Java, JavaScript and Php. Also, I’ve created GUI’s on Java. I’m knowledgeable about various areas of technology: web pages, operating systems, programming languages and databases. I’m searching the opportunity to acquire experience in the Tech Industry. 
 
-I'm self-taught, I like to show things that I've learned, and also, I organize myself and work in a team effectively, I always enjoy to support my co-workers and have an environment of respect.
+I'm self-taught, I like to show knowledge that I've learned, and also, I organize myself and work in a team effectively, I always enjoy supporting my co-workers and have an environment of respect.
 
 - 📫 How to reach me **dav.t02@hotmail.com**
 <p align="left">
