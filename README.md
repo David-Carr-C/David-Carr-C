@@ -7,7 +7,7 @@ I’m a java developer, engineering student of computer science, with a high lev
 
 I'm self-taught, I like to show knowledge that I've learned, and also, I organize myself and work in a team effectively, I always enjoy supporting my co-workers and have an environment of respect.
 
-- 📫 How to reach me **dav.t02@hotmail.com**
+- 📫 How to reach me **david00.t02@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/david-carrillo-castillo-540697220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-carrillo-castillo-540697220" height="30" width="40" /></a>
 </p>
