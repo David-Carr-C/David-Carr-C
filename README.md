@@ -3,7 +3,7 @@
 ![Design](https://user-images.githubusercontent.com/88515120/181091573-bf89f06e-9e1d-42fe-a2df-01b707456e1a.png)
 
 
-I’m a java developer, engineering student of computer science, with a high level of English. I’ve created CLI’s on C, Java, JavaScript and Php. Also, I’ve created GUI’s on Java. I’m knowledgeable about various areas of technology: web pages, operating systems, programming languages and databases. I’m searching the opportunity to acquire experience in the Tech Industry. 
+I’m a java developer expert.
 
 I'm self-taught, I like to show knowledge that I've learned, and also, I organize myself and work in a team effectively, I always enjoy supporting my co-workers and have an environment of respect.
 
